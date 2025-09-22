@@ -11,7 +11,7 @@
 - 输出：
   - 分区目录：`data/YYYY/MM/DD/`
   - CSV：`sales.csv`（长表）、`sales_group.csv`、`sales_business_type.csv`、`sales_store.csv`
-  - 报告：`report.md`（含 Markdown 表格与 Top10 SVG 柱状图）
+  - 报告：`readme.md`（目录默认页，含 Markdown 表与 Top10 SVG）
 
 ## 数据结构
 - 长表字段：

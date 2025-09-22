@@ -454,7 +454,7 @@ def write_markdown_report(records: list[dict]) -> Path:
     report_date = records[0]["report_date"]
     out_dir = partition_dir_for(report_date)
     ensure_dir(out_dir)
-    out_path = out_dir / "report.md"
+    out_path = out_dir / "readme.md"
 
     # Summary
     bt_all = [r for r in records if r["entity_type"] == "business_type"]
