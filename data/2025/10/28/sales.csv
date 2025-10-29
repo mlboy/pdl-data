@@ -1,0 +1,4 @@
+report_date,period,entity_type,entity_name,sales_wan,occurred_at_ms,store_code,record_id,fetched_at_shanghai
+2025-10-28,daily,group,集团合计,2035.0,1761580800000,,,2025-10-29T12:35:19.103711+08:00
+2025-10-28,monthly,group,集团合计,201313.0,1761580800000,,,2025-10-29T12:35:19.103711+08:00
+2025-10-28,yearly,group,集团合计,1936286.0,1761580800000,,,2025-10-29T12:35:19.103711+08:00
